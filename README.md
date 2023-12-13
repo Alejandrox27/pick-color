@@ -8,6 +8,7 @@
   <p>This webpage is were you can choose a color and see it's representation in hexagecimal<br>
     additional you can copy that hexagecimal color and see the page in dark mode.<br>
     it was fun during the creation of this mini-proyect so i would be very happy if you star this repository<br>
+    you can see this page here: https://hexagecimal-color.netlify.app/
   </p>
 </div><br>
 
