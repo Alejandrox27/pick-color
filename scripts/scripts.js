@@ -45,7 +45,7 @@ function change_mode(){
         title.style.color = "#FFFFFF";
         mode.style.color = "#FFFFFF";
         hex_color_text.style.color = "#FFFFFF";
-        background_body.style.background = "url('icon/dotted-background-black.png')";
+        background_body.style.background = "url('icon/dotted-background-black.webp')";
         button.addEventListener("mouseover", () => {
             button.style.background = "#622876";
           });
@@ -62,7 +62,7 @@ function change_mode(){
         title.style.color = "";
         mode.style.color = "";
         hex_color_text.style.color = "rgb(153, 148, 148)";
-        background_body.style.background = "url('icon/dotted-background.png')";
+        background_body.style.background = "url('icon/dotted-background.webp')";
         button.addEventListener("mouseover", () => {
             button.style.background = "#0e51b6";
           });
